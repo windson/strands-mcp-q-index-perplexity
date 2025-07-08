@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/windson-strands-mcp-q-index-perplexity-badge.png)](https://mseep.ai/app/windson-strands-mcp-q-index-perplexity)
+
 # Agentic RAG for JIRA Case Management using Strands Agents with MCPs Clients for Amazon Q Index & Perplexity
  
 
